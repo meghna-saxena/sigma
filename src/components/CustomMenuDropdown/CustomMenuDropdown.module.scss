@@ -1,0 +1,15 @@
+.wrapper {
+  display: inline-block;
+
+  .popup {
+    left: auto !important;
+    right: 20px;
+  }
+
+  .button {
+    background: transparent !important;
+    border: 0;
+    height: 20px;
+    width: auto;
+  }
+}
